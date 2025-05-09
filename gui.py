@@ -64,7 +64,7 @@ class Ui_MainWindow(object):
         self.label.setText(_translate("MainWindow", "ID"))
         self.label_2.setText(_translate("MainWindow", "CANADIATES"))
         self.radioButton.setText(_translate("MainWindow", "  Jane"))
-        self.radioButton_2.setText(_translate("MainWindow", "John"))
+        self.radioButton_2.setText(_translate("MainWindow", "Jone"))
         self.pushButton.setText(_translate("MainWindow", "Submit Vote"))
 
 
